@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joybug/react-for-beginners/static/css/main.e6c13ad2.css",
+    "main.js": "/joybug/react-for-beginners/static/js/main.6b023f70.js",
+    "static/js/787.28585334.chunk.js": "/joybug/react-for-beginners/static/js/787.28585334.chunk.js",
+    "index.html": "/joybug/react-for-beginners/index.html",
+    "main.e6c13ad2.css.map": "/joybug/react-for-beginners/static/css/main.e6c13ad2.css.map",
+    "main.6b023f70.js.map": "/joybug/react-for-beginners/static/js/main.6b023f70.js.map",
+    "787.28585334.chunk.js.map": "/joybug/react-for-beginners/static/js/787.28585334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6b023f70.js"
+  ]
+}
